@@ -1,0 +1,11 @@
+Model Information:
+* title:	vintage desk lamp
+* source:	https://sketchfab.com/3d-models/vintage-desk-lamp-b8e13a49528e4231a0512bb5f18f07e5
+* author:	Noah (https://sketchfab.com/Noahouou)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "vintage desk lamp" (https://sketchfab.com/3d-models/vintage-desk-lamp-b8e13a49528e4231a0512bb5f18f07e5) by Noah (https://sketchfab.com/Noahouou) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

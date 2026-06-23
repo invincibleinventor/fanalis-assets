@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vintage CRT TV
+* source:	https://sketchfab.com/3d-models/vintage-crt-tv-fc9b048d3ad1459187daf314359e1e66
+* author:	Sapphire03 (https://sketchfab.com/Sapphire03)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vintage CRT TV" (https://sketchfab.com/3d-models/vintage-crt-tv-fc9b048d3ad1459187daf314359e1e66) by Sapphire03 (https://sketchfab.com/Sapphire03) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flat screen monitor
+* source:	https://sketchfab.com/3d-models/flat-screen-monitor-f70dadd2adf446d2aeee9bc79f15d288
+* author:	K0Y0 (https://sketchfab.com/koyoinu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flat screen monitor" (https://sketchfab.com/3d-models/flat-screen-monitor-f70dadd2adf446d2aeee9bc79f15d288) by K0Y0 (https://sketchfab.com/koyoinu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
