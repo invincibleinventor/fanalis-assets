@@ -1,0 +1,6 @@
+name = "fanalis-assets"
+compatibility_date = "2025-06-01"
+
+# Serve the static 3D assets in dist/ directly (no Worker script). CORS via dist/_headers.
+[assets]
+directory = "./dist"
